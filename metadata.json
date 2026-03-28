@@ -1,0 +1,7 @@
+{
+  "name": "Spark - Modern Dating App",
+  "description": "A feature-rich dating application with profile swiping, real-time chat, and location-based discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
